@@ -1,6 +1,6 @@
 create or replace package jsn as
  --
- -- V0.1
+ -- V0.2
  --
 
     function val(text varchar2) return clob;
